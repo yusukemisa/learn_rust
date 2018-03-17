@@ -12,3 +12,8 @@ https://rust-lang-ja.github.io/the-rust-programming-language-ja/1.6/book/README.
 - [ ] 3.1. 数当てゲーム
 - [ ] 3.2. 食事する哲学者
 - [ ] 3.3. 他言語と共存する
+
+### 4. 手を動かす
+- [ ] 4.1. FizzBuzz
+- [ ] 4.2. HTTPサーバー
+- [ ] 4.2. HTTPクライアント
