@@ -4,6 +4,8 @@
 ## やっていくこと
 チュートリアル
 https://rust-lang-ja.github.io/the-rust-programming-language-ja/1.6/book/README.html
+文法解説
+http://rust-lang-ja.org/rust-by-example/index.html
 
 ## 進捗
 ### 2. はじめる
